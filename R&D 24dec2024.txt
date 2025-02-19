@@ -1,0 +1,52 @@
+        public Task<Members?> GetMember(int id) 
+        {
+            return appDbContext.Member.FirstOrDefaultAsync(x => x.MemberId == id);
+            
+        }
+
+
+        Task<Members?> GetMember(int id);
+
+
+        public ActionResult<Task<Members?>> GetMemberById(int id)
+        {
+            try
+            {
+                return members.GetMember(id);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
+            }
+        }
+
+
+
+GET {{MemberApi_HostAddress}}/weatherforecast/
+
+C:\Program Files\nodejs\
+
+
+getconnectionstring .net 8
+
+https://stackoverflow.com/questions/37750451/send-http-post-message-in-asp-net-core-using-httpclient-postasjsonasync
+
+https://www.pragimtech.com/blog/blazor/rest-api-model-validation/
+
+
+https://www.pragimtech.com/blog/blazor/razor-components/
+
+https://www.pragimtech.com/blog/blazor/rest-api-repository-pattern/
+
+http post method in .net core
+
+https://www.c-sharpcorner.com/article/build-asp-net-core-api-using-existing-database2/
+
+https://www.c-sharpcorner.com/article/asp-net-core-5-0-web-api/
+
+asp.net core web api example with database
+
+https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-9.0&tabs=visual-studio
+
+https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-9.0&tabs=visual-studio

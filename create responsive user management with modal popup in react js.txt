@@ -1,0 +1,17 @@
+https://medium.com/@pppped/build-a-simple-responsive-modal-with-react-and-jss-updated-with-hooks-8cf821b1e205
+
+https://codesandbox.io/p/sandbox/react-simple-modal-20-ycqug?file=%2Fsrc%2Findex.js%3A11%2C11&from-embed
+
+https://blog.logrocket.com/creating-reusable-pop-up-modal-react/
+
+create responsive user management with modal popup in react js
+
+user management with crud operations in react js
+
+user management with crud operations in react js with modal popup
+
+https://www.geeksforgeeks.org/how-to-do-crud-operations-in-reactjs/
+
+https://stackoverflow.com/questions/73346197/crud-with-a-modal-for-creation-or-edit-process-does-it-need-a-route-in-react
+
+https://www.geeksforgeeks.org/how-to-do-crud-operations-in-reactjs/

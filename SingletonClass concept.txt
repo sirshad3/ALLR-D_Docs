@@ -1,0 +1,16 @@
+    public class ProcessModelSingleton
+    {
+        private static MembersRepository _processModel = new MembersRepository();
+
+        private ProcessModelSingleton()
+        {
+        }
+
+        public static MembersRepository Instance
+        {
+            get { return _processModel; }
+        }
+    }
+
+
+        MembersRepository members = ProcessModelSingleton.Instance;

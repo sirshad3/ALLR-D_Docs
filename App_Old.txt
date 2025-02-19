@@ -1,0 +1,60 @@
+import logo from './logo.svg';
+import './App.css';
+// import Dashboard from './components/Dashboard';
+// import Preferences from './components/Preferences';
+// import Login from './components/Login';
+// import Header from './components/Header';
+import {BrowserRouter, Routes, Route} from "react-router-dom"
+// import Nav from './components/Nav';
+import MainContainer from './components/LoginContainer';
+import Nav from './components/Nav';
+// import Dashboard from './components/Home';
+// import HomeContainer from './components/HomeContainer';
+import LoginContainer from './components/LoginContainer';
+import Home from './components/Home';
+import About from './components/About';
+import Footer from './components/Footer';
+import Layout from './components/Layout';
+// import LayoutHeader from './components/Layout';
+//import Nav from './components/Nav';
+// import Main from './components/Main';
+// import {MainMenu} from './components/MainMenu.css'
+
+
+function App() {
+  return (
+    <div className="App">
+            <Routes>
+            <Route path="/" element = { <LoginContainer/> } />
+             <Route path="/Home" element={ < Home />} />
+            </Routes>
+       {/*  <Route path="/" element={<Nav />}>
+          <Route index element={<Home />} />
+          <Route path="about" element={<About />} />
+        </Route>
+        </Routes> */}
+
+{/* <Routes>
+  <Route path='/' element={<HomeContainer/>}>
+    <Route index element={<Home/>}/>
+  </Route>
+</Routes> */}
+            {/*<Route path="/about" element={ < HomeContainer />} /> */}
+            {/* <Route path="/Home" element={ <HomeContainer />} >
+              <Route index element={<MainContainer/>} />
+              <Route path="about" element={<About />} />
+            </Route> */}
+          {/* <Route path="/" element={<Nav />}>
+          <Route index element={<Home />} />
+          <Route/> */}
+                
+             {/* </Routes> */}
+ 
+        {/* <Routes>
+          <Route exact path="/" element={<Nav/>}/>
+          <Route exact path="/nav" element={<Nav/>}/> */}
+    </div>
+  );
+}
+
+export default App;

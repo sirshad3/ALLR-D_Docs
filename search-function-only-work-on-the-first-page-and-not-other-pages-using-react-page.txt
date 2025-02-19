@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/68829337/search-function-only-work-on-the-first-page-and-not-other-pages-using-react-pag
+
+https://codesandbox.io/p/sandbox/hopeful-grothendieck-41e4w?file=%2Fsrc%2FApp.js%3A1%2C1-182%2C1
+
+https://codesandbox.io/p/sandbox/kind-carson-1p926?file=%2Fsrc%2FApp.js%3A1%2C1-194%2C1

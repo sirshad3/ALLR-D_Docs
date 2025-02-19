@@ -1,0 +1,38 @@
+import React from 'react';
+import './Style.css';
+import logo from '../Logo/pfizer_logo.png';
+import { Nav } from 'react-bootstrap';
+
+function Header() {
+  return (
+    <header className="header">
+     <img src={logo} alt="logo" className='image-container' layout="responsive"  />
+      <h1>Pfizer</h1>
+    </header>
+  );
+}
+
+export default Header;
+
+
+
+
+.header {
+    display: grid;
+    grid-template-areas: "nav logo";
+    background-color: #fff;
+
+  }
+  /* .Nav {
+    grid-area: nav;
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    align-items: center;
+    justify-items: center;
+  } */
+
+  .image-container {
+    width: 140px;
+    height: 60px;
+  }
+  

@@ -1,0 +1,30 @@
+[
+  {
+    id : 1,
+    name: "Daiana"
+    age : 22,
+    adress : "New York"
+  },
+  {
+    id : 2,
+    name: "Bruce"
+    age : 25,
+    adress : "New Jersey"
+  },
+  {
+    id : 3,
+    name: "Etlee"
+    age : 27,
+    adress : "London"
+  }
+]
+
+['Daiana', 'Bruce', 'Etlee']
+
+
+React Life cycle phases
+
+1. Mounting
+2. Updating
+3. UnMounting
+4. Error Handling

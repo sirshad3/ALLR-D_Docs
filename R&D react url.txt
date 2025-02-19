@@ -1,0 +1,25 @@
+https://www.pragimtech.com/blog/reactjs/useeffect-part-3-in-react/
+
+
+display ul tag conditionally in jsx
+
+https://stackoverflow.com/questions/72817892/conditional-rendering-to-display-in-react
+
+https://stackoverflow.com/questions/65124534/unable-to-render-html-ul-conditionally-in-reactjs
+
+https://stackoverflow.com/questions/71704452/output-ul-tags-conditionally-in-jsx
+
+https://react-cn.github.io/react/tips/if-else-in-JSX.html
+
+https://stackoverflow.com/questions/44046037/if-else-statement-inside-jsx-reactjs
+
+
+api call using axios in react js codevenkat
+
+https://stackoverflow.com/questions/78352966/react-js-api-calls-using-axios
+
+https://www.geeksforgeeks.org/axios-in-react-a-guide-for-beginners/
+
+https://www.geeksforgeeks.org/axios-in-react-a-guide-for-beginners/
+
+https://www.geeksforgeeks.org/axios-in-react-a-guide-for-beginners/

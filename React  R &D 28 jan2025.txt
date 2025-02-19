@@ -1,0 +1,132 @@
+https://www.google.com/search?q=sorting+on+table+in+react+js&sca_esv=f6c6b98bce857511&ei=X8CXZ-zCGsWn5NoP9OmF8Qc&oq=sorting+on+tab+in+react+js&gs_lp=Egxnd3Mtd2l6LXNlcnAiGnNvcnRpbmcgb24gdGFiIGluIHJlYWN0IGpzKgIIADIIECEYoAEYwwRIsThQjwpYgyRwAXgBkAEAmAFDoAGIA6oBATe4AQPIAQD4AQGYAgigAqIDwgIKEAAYsAMY1gQYR8ICChAAGIAEGEMYigXCAgYQABgHGB7CAgUQABiABMICBhAAGAUYHsICCBAAGAcYCBgewgILEAAYgAQYhgMYigXCAggQABiiBBiJBcICBRAAGO8FwgIIEAAYgAQYogSYAwCIBgGQBgiSBwE4oAeyHA&sclient=gws-wiz-serp
+
+when i am passing array then child component render multiple times in react js
+
+https://www.google.com/search?q=when+i+am+passing+array+then+child+component+render+multiple+times+in+react+js&sca_esv=8b8c4f88fc4c1aa0&source=hp&ei=z5CYZ_PaKsCq5NoP2dbh2Ak&iflsig=ACkRmUkAAAAAZ5ie3-sKpdHnopnKmAUzeR5fyKyeElLl&ved=0ahUKEwiz_pS9-5eLAxVAFVkFHVlrGJsQ4dUDCBA&uact=5&oq=when+i+am+passing+array+then+child+component+render+multiple+times+in+react+js&gs_lp=Egdnd3Mtd2l6Ik53aGVuIGkgYW0gcGFzc2luZyBhcnJheSB0aGVuIGNoaWxkIGNvbXBvbmVudCByZW5kZXIgbXVsdGlwbGUgdGltZXMgaW4gcmVhY3QganMyBRAhGKABMgUQIRigAUjIogJQAFi3oAJwBXgAkAEAmAGUAaABqReqAQQ0Ny4yuAEDyAEA-AEBmAI2oALXGMICCxAAGIAEGLEDGIMBwgIOEC4YgAQYsQMY0QMYxwHCAggQLhiABBjUAsICDhAAGIAEGLEDGIMBGIoFwgIIEAAYgAQYsQPCAhEQLhiABBixAxjRAxiDARjHAcICCxAuGIAEGNEDGMcBwgIFEAAYgATCAhEQLhiABBixAxiDARjHARivAcICCxAuGIAEGLEDGIMBwgIIEC4YgAQYsQPCAgUQLhiABMICChAuGIAEGNQCGArCAgYQABgWGB7CAgUQABjvBcICCBAAGIAEGKIEwgILEAAYgAQYhgMYigXCAggQABiiBBiJBcICBRAhGJ8FwgIFECEYqwKYAwCSBwQ1Mi4yoAfr8QE&sclient=gws-wiz
+
+
+when i am passing array with different values then child component render multiple times in react js
+
+https://www.google.com/search?q=when+i+am+passing+array+with+different+values+then+child+component+render+multiple+times+in+react+js&sca_esv=8b8c4f88fc4c1aa0&source=hp&ei=O5eYZ6XfLN7W5NoPy_WH0QE&iflsig=ACkRmUkAAAAAZ5ilS-RXVQLBaC2y3uD2A5cpr1YsQUEs&ved=0ahUKEwjl6IzNgZiLAxVeK1kFHcv6IRoQ4dUDCBA&uact=5&oq=when+i+am+passing+array+with+different+values+then+child+component+render+multiple+times+in+react+js&gs_lp=Egdnd3Mtd2l6ImR3aGVuIGkgYW0gcGFzc2luZyBhcnJheSB3aXRoIGRpZmZlcmVudCB2YWx1ZXMgdGhlbiBjaGlsZCBjb21wb25lbnQgcmVuZGVyIG11bHRpcGxlIHRpbWVzIGluIHJlYWN0IGpzSABQAFgAcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAKACAJgDAJIHAKAHAA&sclient=gws-wiz
+
+I have same function name and it calls on all three buttons when click first button react
+
+https://www.google.com/search?q=I+have+same+function+name+and+it+calls+on+all+three+buttons+when+click+first+button+react&sca_esv=75d2da38486ca9c2&ei=w6iYZ47EBaKGptQP-ZyjqQU&ved=0ahUKEwjOseuokpiLAxUig4kEHXnOKFUQ4dUDCBA&uact=5&oq=I+have+same+function+name+and+it+calls+on+all+three+buttons+when+click+first+button+react&gs_lp=Egxnd3Mtd2l6LXNlcnAiWUkgaGF2ZSBzYW1lIGZ1bmN0aW9uIG5hbWUgYW5kIGl0IGNhbGxzIG9uIGFsbCB0aHJlZSBidXR0b25zIHdoZW4gY2xpY2sgZmlyc3QgYnV0dG9uIHJlYWN0SOnpAVD-BVia0gFwBngBkAEAmAE7oAH-CqoBAjM1uAEDyAEA-AEBmAIIoALoAcICChAAGLADGNYEGEfCAgQQIRgKmAMAiAYBkAYIkgcBOKAH40Q&sclient=gws-wiz-serp
+
+
+how to use bootstrap in react js
+
+https://www.google.com/search?q=how+to+use+bootstrap+in+react+js&sca_esv=57834bb84b4c7b3e&source=hp&ei=LbiUZ52HO6WGw8cPnJem2QY&iflsig=ACkRmUkAAAAAZ5TGPtSBeaxAeKJQ3udgTeyDlntbhL70&oq=how+to+reference+bootstrap+in+react+&gs_lp=Egdnd3Mtd2l6IiRob3cgdG8gcmVmZXJlbmNlIGJvb3RzdHJhcCBpbiByZWFjdCAqAggBMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB5IwaMCUABYiIgCcAZ4AJABAJgBvwGgAbgYqgEENDAuM7gBA8gBAPgBAZgCMaAC5RnCAgsQABiABBiRAhiKBcICDhAuGIAEGLEDGNEDGMcBwgIOEC4YgAQYsQMYgwEYigXCAggQABiABBixA8ICCxAAGIAEGLEDGIMBwgILEC4YgAQY0QMYxwHCAhEQLhiABBixAxjRAxjHARiKBcICBRAAGIAEwgIIEC4YgAQY1ALCAhMQABiABBixAxiDARiKBRhGGPsBwgIOEAAYgAQYsQMYgwEYigXCAgsQLhiABBixAxjUAsICCBAuGIAEGLEDwgIKEAAYgAQYRhj7AcICCBAAGBYYChgewgILEAAYgAQYhgMYigXCAggQABiABBiiBMICBxAhGKABGArCAgUQIRirApgDAJIHBDQzLjagB-LkAg&sclient=gws-wiz
+
+https://getbootstrap.com/docs/5.0/forms/select/
+
+responsive style for select option  in react js
+
+https://www.geeksforgeeks.org/how-to-use-html-select-tag-in-reactjs/
+
+https://hygraph.com/blog/react-pagination
+
+
+ https://medium.com/@techvoot.solutions/how-to-implement-pagination-in-your-react-js-e6b53043c84e
+
+responsive ui search filter react js
+
+https://dev.to/alais29dev/building-a-real-time-search-filter-in-react-a-step-by-step-guide-3lmm
+
+crud operation with search filter in react js
+
+
+https://owlcation.com/stem/creating-a-sortable-list-in-react-js
+
+https://stackoverflow.com/questions/44535972/react-js-sort-by-ascending-and-descending
+
+sorting in react js
+
+https://www.smashingmagazine.com/2020/03/sortable-tables-react/
+
+https://blog.logrocket.com/creating-react-sortable-table/
+
+sorting on table in react js
+
+https://stackoverflow.com/questions/40232847/how-to-implement-pagination-in-react
+
+https://www.google.com/search?q=..+if+page+is+more+than+10+pages+in+react+js&sca_esv=82d425a508629bf6&source=hp&ei=c5eXZ4ihEr-UwbkPyKmP8A8&iflsig=ACkRmUkAAAAAZ5elg-l_532MaGHaCVs0ZXMC4PaGcOeV&oq=..+if+page+is+more+than+10+pages+in+reatc&gs_lp=Egdnd3Mtd2l6IikuLiBpZiBwYWdlIGlzIG1vcmUgdGhhbiAxMCBwYWdlcyBpbiByZWF0YyoCCAAyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGAoyBRAhGJ8FMgUQIRifBTIFECEYnwUyBRAhGJ8FSLziAVAAWIzSAXAGeACQAQCYAWugAe8ZqgEENDYuMrgBA8gBAPgBAZgCNKACnhqoAgrCAgoQABgDGOoCGI8BwgIIEAAYgAQYsQPCAgUQABiABMICCxAAGIAEGLEDGIMBwgILEC4YgAQYsQMYgwHCAgUQLhiABMICBhAAGBYYHsICCBAAGBYYChgewgILEAAYgAQYhgMYigXCAggQABiiBBiJBcICBRAAGO8FwgIIEAAYgAQYogTCAgUQIRigAcICBRAhGKsCmAMI8QUaI5k2CdvazZIHBDUwLjKgB9q9Ag&sclient=gws-wiz
+
+.. if page is more than 10 pages in react js
+
+pagination with first and last page button in react
+
+pagination with next and previous button in react
+
+https://github.com/contentful/react-pagination/blob/main/src/components/ClientSide.js
+
+https://github.com/contentful/react-pagination/blob/main/src/App.js
+
+https://www.contentful.com/blog/react-pagination/
+
+https://medium.com/@techvoot.solutions/how-to-implement-pagination-in-your-react-js-e6b53043c84e
+
+https://hygraph.com/blog/react-pagination
+
+https://dev.to/canhamzacode/how-to-implement-pagination-with-reactjs-2b04
+
+pagination in react js
+
+https://xgyl0.csb.app/
+
+https://codesandbox.io/p/sandbox/react-table-pagination-and-sort-xgyl0?file=%2Fsrc%2FApp.js%3A2%2C10-2%2C44
+
+https://gist.github.com/philly-vanilly/a95f72684a01439160f67d5498bc3386
+
+react table sorting and pagination
+
+https://forum.freecodecamp.org/t/react-pagination/267553
+
+https://endeavourmonk.medium.com/pagination-in-react-with-implementation-4a4d275a9676
+
+display first 10 pages and then 11 to 20 on the next page react js
+
+https://www.sencha.com/blog/how-to-create-a-react-responsive-grid/
+
+
+responsive grid in react js using table example
+
+https://www.geeksforgeeks.org/how-to-implement-search-filter-functionality-in-reactjs/
+
+usermanagement with search filters in react js
+
+https://css-tricks.com/responsive-data-tables/
+
+https://muhimasri.com/blogs/react-responsive-table/
+
+https://css-tricks.com/responsive-data-tables/
+
+https://www.reddit.com/r/reactjs/comments/8mabtx/checkout_my_responsive_table_component/
+
+https://github.com/ArsenyYankovsky/react-responsive-cards-table
+
+https://stackoverflow.com/questions/31435808/making-a-modal-responsive
+
+https://stackoverflow.com/questions/49683592/how-to-set-responsive-style-to-react-modal-in-react-js
+
+https://stackoverflow.com/questions/65927678/how-to-make-a-modal-responsive-in-reactjs
+
+https://gist.githubusercontent.com/sergiop/47c47db95396dfdee874f5135bd1b6cc/raw/4caef57ba51d0ec3c87d8ba3deac12dc01014e0f/Modal.jsx
+
+https://gist.githubusercontent.com/sergiop/a6f0508d0e9edcea4b228b8af6df14c1/raw/e7f2bf59c496cd57de563649c7f7cd2f41e6af7a/ModalStyle.js
+
+https://gist.githubusercontent.com/sergiop/fc0589674f5841674bc61130055f1150/raw/56fc82ba18ebdc21e4d94ad3d59a876edf2ae113/SimpleModal.jsx
+
+
+https://medium.com/@pppped/build-a-simple-responsive-modal-with-react-and-jss-updated-with-hooks-8cf821b1e205
+
+https://blog.logrocket.com/creating-reusable-pop-up-modal-react/
+
+https://react-responsive-modal.leopradel.com/
+
+create responsive user management with modal popup in react js
+
+https://www.google.com/search?q=create+responsive+user+management+with+modal+popup+in+react+js&sca_esv=978533b3da03208b&ei=CpeQZ6WtGeeawbkPv6SXIA&oq=create+responsive+user+management+with+modal+popup+in+r&gs_lp=Egxnd3Mtd2l6LXNlcnAiN2NyZWF0ZSByZXNwb25zaXZlIHVzZXIgbWFuYWdlbWVudCB3aXRoIG1vZGFsIHBvcHVwIGluIHIqAggBMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigAUipjQFQqgZYqHpwAngBkAEAmAFUoAH3BaoBAjEwuAEDyAEA-AEBmAIMoAKmBsICChAAGLADGNYEGEfCAgUQIRirAsICBRAhGJ8FmAMAiAYBkAYIkgcCMTKgB9NQ&sclient=gws-wiz-serp
+
+how we can default path outside route in react js
+

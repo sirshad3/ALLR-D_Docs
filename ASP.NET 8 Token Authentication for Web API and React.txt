@@ -1,0 +1,7 @@
+
+
+Part 1 --> https://medium.com/c-sharp-programming/token-authentication-asp-net-1e7fdfb838bb
+
+Part 2 --> https://sd.blackball.lv/articles/read/19704
+
+Part 3 ---> https://medium.com/@disa2aka/token-authentication-integration-testing-asp-net-32bdab0f9967

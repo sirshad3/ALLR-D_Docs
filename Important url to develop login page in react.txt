@@ -1,0 +1,69 @@
+create react app admin template
+
+create admin app in react js
+
+
+create login admin app in react js
+
+login form in react js w3schools
+
+
+https://github.com/uiwjs/react-login-page
+
+https://clerk.com/blog/building-a-react-login-page-template
+
+https://www.simplilearn.com/tutorials/reactjs-tutorial/login-page-in-reactjs
+
+https://marmelab.com/react-admin/Tutorial.html
+
+https://www.geeksforgeeks.org/build-an-admin-panel-using-reactjs/
+
+https://www.codingnepalweb.com/make-simple-login-form-html-css/
+
+
+https://themeselection.com/react-login-page-template/?srsltid=AfmBOopKqrkoRBTf-8lQbpLFliN-VRxr1oxDTV3IeNvvl_q_r-XgwA0o
+
+
+https://mdbootstrap.com/docs/react/extended/login-form/
+
+
+https://marmelab.com/react-admin/doc/2.9/Authentication.html
+
+
+https://stackoverflow.com/questions/38628269/how-to-create-admin-user-or-super-user-in-react-redux-application
+
+https://stackoverflow.com/questions/38628269/how-to-create-admin-user-or-super-user-in-react-redux-application
+
+
+-------------------------Validation in react js --------------------------------------------------------
+
+validation in react js with example
+
+https://www.google.com/search?q=validation+in+react+js+with+example&sca_esv=bca4d6818df5eb0f&source=hp&ei=q4SKZ7XQBLKuptQP7OvzmQk&iflsig=AL9hbdgAAAAAZ4qSuwyDf3c-p7O3vbTrUn6_a5Wn4fP_&oq=valdition+in+react+js&gs_lp=Egdnd3Mtd2l6IhV2YWxkaXRpb24gaW4gcmVhY3QganMqAggBMgcQABiABBgNMgcQABiABBgNMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHkjyXFAAWP88cAB4AJABAJgBggGgAagLqgEEMjAuMbgBA8gBAPgBAZgCFaAC9wvCAg4QLhiABBixAxjRAxjHAcICERAuGIAEGLEDGNEDGIMBGMcBwgIFEC4YgATCAgsQLhiABBixAxjUAsICCBAAGIAEGLEDwgILEAAYgAQYsQMYgwHCAgUQABiABMICDhAAGIAEGLEDGIMBGIoFwgIIEC4YgAQYsQPCAg8QABiABBixAxgKGEYY-QHCAgoQABiABBixAxgKwgIHEAAYgAQYCsICDRAuGIAEGMcBGAoYrwHCAgcQLhiABBgKwgINEAAYgAQYsQMYgwEYCsICEBAuGIAEGMcBGAoYjgUYrwHCAhAQLhiABBjHARgNGI4FGK8BwgIMEAAYgAQYDRhGGP8BwgIGEAAYDRgewgIIEAAYBRgNGB6YAwCSBwQyMC4xoAe58AE&sclient=gws-wiz
+
+https://www.geeksforgeeks.org/how-to-perform-form-validation-in-react/
+
+--------------------------------------------------------------------
+
+https://supertokens.com/blog/building-a-login-screen-with-react-and-bootstrap#
+
+https://stackoverflow.com/questions/60509096/how-can-i-create-a-login-page-separately-from-my-other-single-page-application-i
+
+
+create react app with .net web api
+
+https://www.youtube.com/watch?v=4RKuyp_bOhY
+
+create an asp.net core app with react in visual studio code
+
+asp net core with react js visual studio 2022
+
+asp.net core with react.js example
+
+react js with asp.net core web api
+
+https://www.reddit.com/r/reactjs/comments/1006egl/i_need_help_with_hosting_a_react_app_with_a/?rdt=61570
+
+https://www.reddit.com/r/dotnet/comments/1ewvha4/how_to_connect_reactjs_frontend_with_aspnet_core/
+
+https://www.reddit.com/r/reactjs/comments/f2x3s5/what_is_the_best_way_to_build_react_applications/

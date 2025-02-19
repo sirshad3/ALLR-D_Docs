@@ -1,0 +1,9 @@
+https://stackblitz.com/edit/reactjs-example1-loe3mmrm?file=Modal.js,style.css
+
+https://stackblitz.com/edit/reactjs-example1-loe3mmrm?file=Modal.js,index.js
+
+https://stackoverflow.com/questions/67232394/how-to-make-button-with-close-icon-in-right-corner-using-react-js
+
+https://stackoverflow.com/questions/56210419/how-to-add-x-close-button-onto-upper-right-corner-of-uk-modal-popup
+
+

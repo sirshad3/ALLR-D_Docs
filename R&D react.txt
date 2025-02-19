@@ -1,0 +1,222 @@
+Note : (Need to check performance optimization in every part of the code)
+
+React functional component called multiple times (When load or render first time)
+
+The reason for this behavior is that your app is running in Strict mode. 
+This is an intentional measure by the React team to ensure your components 
+are pure functions. A pure function is a programming concept that specifies a function, 
+given the same arguments, should produce the same output - and hence, not break or 
+affect anything outside the function. So your React app renders twice during development, 
+to detect such a bug in your development environment.
+
+This feature, while useful, can sometimes be annoying. For example, when using useEffect to read an API 
+and update the initial component state. You notice the useEffect runs twice even with an empty dependency array. 
+This can have unintended results depending on your starting logic.
+
+Here're two ways to stop this behavior:
+1. Delete <React.StrictMode> around your <App/> in the index.js file.
+
+2. A combination of useEffect() and useRef()
+
+This is my recommended method as it does not require one to remove <React.StrictMode> hence, keeping the debug feature. 
+It utilizes useEffect() and useRef() hook to check whether the application has been rendered before. That way, we can ensure our starting code runs once.
+
+url ->  https://nnamdi.hashnode.dev/why-does-my-react-app-render-twice
+
+
+--------------------------------------------------------------------------------- HOOK -----------------------------------------------------------
+
+Hook => A Hook is a special function that lets you “hook into” React features.
+        They let you use state and other React features without writing a class.
+
+1. useState  
+
+The React useState Hook allows us to track state in a function component.
+State generally refers to data or properties that need to be tracking in an application.
+
+                       OR
+
+useState is a Hook that lets you add React state to function components. It is used for
+state management in react.
+
+2. useEffect 
+
+The useEffect Hook allows you to perform side effects in your components. Some examples 
+of side effects are: fetching data, directly updating the DOM, and timers. useEffect accepts two arguments.
+The second argument is optional. useEffect is a React Hook that lets you synchronize a component with an external system.
+It is close repalcement of react life cycle method like ComponentDidMount and ComponentDidUpdate etc.
+
+Url to test api
+
+https://jsonplaceholder.typicode.com/
+
+https://jsonplaceholder.typicode.com/posts
+
+3. useContext
+
+React Context is a way to manage state globally. It can be used together with the useState Hook to share state 
+between deeply nested components more easily.
+
+               OR
+
+It is use to pass data through DOM tree when we have nested component without passing data manually at every level.
+
+
+4. useReducer
+
+This hook is used for state management in react and it is an alternative to useState.
+
+useReducer => It is used for state management.
+[newstate (CurrentState), dipatch] = useReducer(reducer, initialstate)
+
+initialstate => which is initial value for reducer function
+
+reducer => It is a function which takes two parameter current state, action and return new state.
+                               
+                                              OR
+Instruction to the reducer function based on that what action specify or passed 
+to the reducer function perform the necessary transition on the state.
+newState = reducer (currentState, action)
+
+action => action is a method which makes transition or transit from current state
+          to the new state.
+
+useReducer => useReducer is a hook which takes two parameter and return pair of
+              values like new state (current state) and dispatch method.
+
+Dispatch => which is used to dispatch a action or to specify the action to the
+            reducer function.
+
+[newState or currentState, dispatch] = useReducer (reducer, intialState)
+
+[state , setState] = useState (0)
+
+example to compare (useState vs useReducer)
+
+[count, setCount] = useState (0)
+
+[count, dispatch] = useReducer(reducer, 0)
+
+"count" in useState = "count" in useReducer  (variable comaprison)
+
+"setState" in useState = "dispatch" in useReducer (Method comparison)
+
+
+5. useCallback
+
+   In React, the useCallback hook is used to memoize a callback function, meaning it returns 
+   the same function instance across multiple renders unless its dependencies change. This can be 
+   crucial for performance optimization, especially when passing callbacks to child components that 
+   are optimized with React.memo or shouldComponentUpdate.
+
+   useCallback takes two arguments:
+        The first argument is the callback function you want to memoize.
+        The second argument is an array of dependencies. If any of the values in this array change between renders, 
+        the callback function will be re-created.
+
+Example =>
+          // Memoized callback function
+                const increment = useCallback(() => {
+                                 setCount(prevCount => prevCount + 1);
+                                               }, []); // Empty dependency array, so it only re-creates the function if the dependencies change
+
+                                                         OR
+
+useCallback is a React Hook that lets you cache a function definition between re-renders like.
+
+const cachedFn = useCallback(fn, dependencies)
+
+                              Usage
+                              Skipping re-rendering of components
+                              Updating state from a memoized callback
+                              Preventing an Effect from firing too often
+                              Optimizing a custom Hook
+
+W3School deifination =>
+
+url => https://www.w3schools.com/react/react_usecallback.asp
+
+The React useCallback Hook returns a memoized callback function.
+
+Think of memoization as caching a value so that it does not need to be recalculated.
+
+This allows us to isolate resource intensive functions so that they will not automatically run on every render.
+
+The useCallback Hook only runs when one of its dependencies update.
+
+This can improve performance.
+
+
+6. useMemo
+
+useMemo is a React Hook that lets you cache the result of a calculation between re-renders.
+
+const cachedValue = useMemo(calculateValue, dependencies)
+
+     Usage
+Skipping expensive recalculations
+Skipping re-rendering of components
+Preventing an Effect from firing too often
+Memoizing a dependency of another Hook
+Memoizing a function
+
+Example =>
+
+function TodoList({ todos, tab }) {
+  const visibleTodos = useMemo(
+    () => filterTodos(todos, tab),
+    [todos, tab]
+  );
+  // ...
+}
+
+W3School deifination =>
+
+url => https://www.w3schools.com/react/react_usememo.asp
+
+The React useMemo Hook returns a memoized value.
+
+Think of memoization as caching a value so that it does not need to be recalculated.
+
+The useMemo Hook only runs when one of its dependencies update.
+
+
+Diff b/w useCallback & useMemo  =>
+
+The useMemo and useCallback Hooks are similar. The main difference is that useMemo returns a memoized value and useCallback returns a memoized function.
+This can improve performance.
+
+
+7. useRef
+
+useRef is a React Hook that lets you reference a value that’s not needed for rendering.
+
+const ref = useRef(initialValue)
+
+Usage
+Referencing a value with a ref
+Manipulating the DOM with a ref
+Avoiding recreating the ref contents
+
+
+W3School deifination =>
+
+url => https://www.w3schools.com/react/react_useref.asp
+
+The useRef Hook allows you to persist values between renders.
+
+It can be used to store a mutable value that does not cause a re-render when updated.
+
+It can be used to access a DOM element directly.
+
+-: Does Not Cause Re-renders
+   If we tried to count how many times our application renders using the useState Hook, we would be caught in an 
+   infinite loop since this Hook itself causes a re-render.
+   To avoid this, we can use the useRef Hook.
+
+Example:
+Use useRef to track application renders.
+
+
+Note :- We have some other hooks E.g. "useImperativeHandle, useLayoutEffect and "useDebugValue"...... and we can 
+        create our custom hooks also.

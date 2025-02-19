@@ -1,0 +1,11 @@
+https://www.c-sharpcorner.com/article/authentication-and-authorization-in-asp-net-core-web-api-with-json-web-tokens/
+
+https://www.c-sharpcorner.com/article/jwt-token-authentication-using-the-net-core-6-web-api/
+
+https://www.c-sharpcorner.com/article/asp-net-core-web-api-5-0-authentication-using-jwtjson-base-token/
+
+https://www.c-sharpcorner.com/blogs/jwt-authentication-in-asp-net-core-web-api
+
+https://www.c-sharpcorner.com/article/jwt-json-web-token-authentication-in-asp-net-core/
+
+https://www.c-sharpcorner.com/article/asp-net-core-5-0-web-api/

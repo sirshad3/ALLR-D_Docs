@@ -1,0 +1,41 @@
+token based authentication in web api
+
+https://www.c-sharpcorner.com/article/web-ap/
+
+https://stackoverflow.com/questions/9773664/rest-api-token-based-authentication
+
+https://stackoverflow.com/questions/32195959/token-based-authentication-in-web-api
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+authentication from ldap in asp.net core web api
+
+https://stackoverflow.com/questions/49682644/asp-net-core-2-0-ldap-active-directory-authentication
+
+https://stackoverflow.com/questions/50503640/ldap-authentication-for-asp-net-web-api
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity-api-authorization?view=aspnetcore-9.0
+
+https://auth0.com/docs/quickstart/backend/aspnet-core-webapi/interactive
+
+https://stackoverflow.com/questions/30546542/token-based-authentication-in-asp-net-core-refreshed
+
+https://stackoverflow.com/questions/29048122/token-based-authentication-in-asp-net-core
+
+
+https://stackoverflow.com/questions/38977088/asp-net-core-web-api-authentication
+
+
+
+We must install below libraries using NuGet package manager.
+
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+Microsoft.AspNetCore.Identity.EntityFrameworkCore
+Microsoft.AspNetCore.Identity
+Microsoft.AspNetCore.Authentication.JwtBearer

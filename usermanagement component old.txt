@@ -1,0 +1,74 @@
+import React, { useState } from 'react';
+import Modal from 'react-modal';
+
+const UserManagement = () => {
+  const [users, setUsers] = useState([
+    { id: 1, name: 'John Doe', email: 'john.doe@example.com' },
+    { id: 2, name: 'Jane Smith', email: 'jane.smith@example.com' },
+  ]);
+
+  const [modalIsOpen, setModalIsOpen] = useState(false);
+  const [modalData, setModalData] = useState({});
+
+  const openModal = (user) => {
+    setModalData(user);
+    setModalIsOpen(true);
+  };
+
+  const closeModal = () => {
+    setModalIsOpen(false);
+  };
+
+  const handleEdit = (user) => {
+    // Handle edit user logic
+  };
+
+  const handleDelete = (userId) => {
+    // Handle delete user logic
+  };
+
+  return (
+    <div>
+      <table>
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          {users.map((user) => (
+            <tr key={user.id}>
+              <td>{user.id}</td>
+              <td>{user.name}</td>
+              <td>{user.email}</td>
+              <td>
+                <button onClick={() => openModal(user)}>Edit</button>
+                <button onClick={() => handleDelete(user.id)}>Delete</button>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+
+      <Modal isOpen={modalIsOpen} onRequestClose={closeModal}>
+        <h2>Edit User</h2>
+        <form onSubmit={(e) => e.preventDefault()}>
+          <label>
+            Name:
+            <input type="text" value={modalData.name} onChange={(e) => setModalData({ ...modalData, name: e.target.value })} />
+          </label>
+          <label>
+            Email:
+            <input type="email" value={modalData.email} onChange={(e) => setModalData({ ...modalData, email: e.target.value })} />
+          </label>
+          <button onClick={() => handleEdit(modalData)}>Save</button>
+        </form>
+      </Modal>
+    </div>
+  );
+};
+
+export default UserManagement;

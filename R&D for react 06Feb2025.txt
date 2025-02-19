@@ -1,0 +1,27 @@
+if unauthorized response return from api c# then how to handle it in react js
+
+https://jasonwatmore.com/post/2021/09/27/react-fetch-logout-on-401-unauthorized-or-403-forbidden-http-response
+
+https://www.geeksforgeeks.org/how-to-fix-a-401-unauthorized-error/
+
+https://www.reddit.com/r/dotnet/comments/15cm016/react_mvc_webapi_authorization_and_authentication/
+
+https://www.scholarhat.com/tutorial/webapi/token-based-authentication-in-aspnet-web-api
+
+https://github.com/andreyka26-git/andreyka26-authorizations/blob/main/Custom/JwtAuth.Custom.BackendOnly.Server/AuthContext.cs
+
+https://github.com/andreyka26-git/andreyka26-authorizations/tree/main/Custom/JwtAuth.Custom.BackendOnly.Server
+
+https://andreyka26.com/jwt-auth-using-dot-net-and-react  (Important url)
+
+https://github.com/andissanayake/UnifiedApp/tree/version/v2
+
+https://medium.com/c-sharp-programming/token-authentication-asp-net-1e7fdfb838bb
+
+https://medium.com/c-sharp-programming/token-authentication-asp-net-1e7fdfb838bb
+
+https://medium.com/@disa2aka/token-authentication-integration-testing-asp-net-32bdab0f9967
+
+asp net web api token based authentication to work with react js
+
+https://www.c-sharpcorner.com/article/web-ap/
