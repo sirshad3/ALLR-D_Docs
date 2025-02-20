@@ -1,0 +1,29 @@
+how to use try catch block in a action method mvc c#
+
+https://stackoverflow.com/questions/49412610/error-handling-and-try-catch-blocks-with-asynchronous-methods
+
+https://stackoverflow.com/questions/17046351/exception-handling-in-controller-asp-net-mvc
+
+https://stackoverflow.com/questions/48179086/is-it-good-idea-to-have-a-general-try-catch-in-every-method-in-a-controller-or-i
+
+user list with search filter mvc c#
+
+
+https://stackoverflow.com/questions/58459429/c-sharp-list-object-display-and-filter-input-dotnet-mvc
+
+https://stackoverflow.com/questions/53615076/how-to-get-a-list-of-filter-criteria-from-view-to-controller-in-asp-net-mvc
+
+https://stackoverflow.com/questions/18060445/how-to-filter-result-in-mvc-4-based-on-user
+
+
+https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/sorting-filtering-and-paging-with-the-entity-framework-in-an-asp-net-mvc-application
+
+https://www.csharp.com/UploadFile/abhikumarvatsa/filter-records-in-mvc/
+
+https://www.palmmedia.de/blog/2012/2/18/aspnet-mvc-generic-filtering-based-on-expressions
+
+https://www.csharp.com/UploadFile/4d9083/filter-grid-with-cascading-dropdownlist-in-mvc-using-razor/
+
+mvc search filter
+
+https://www.csharp.com/article/implementing-global-search-with-detailed-views-in-asp-net-core-mvc/
